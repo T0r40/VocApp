@@ -1,0 +1,14 @@
+{
+        "Header":{
+            "op2": "Mode d'étude",
+            "op4": "Page d'accueil"
+        },
+        "Examen":{
+            "texto1": "Examen de vocabulaire",
+            "texto2": "Choisir le fichier"
+        },
+        "Footer":{
+            "texto": "© 2023 Tous droits réservés"
+        }
+    
+ }

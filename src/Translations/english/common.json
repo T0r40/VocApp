@@ -1,0 +1,14 @@
+{
+    "Header":{
+        "op2": "Study mode",
+        "op4": "Main page"
+    },
+    "Examen":{
+        "texto1": "Vocabulary exam",
+        "texto2": "Choose file"
+    },
+    "Footer":{
+        "texto": "© 2023 All rights reserved"
+    }
+
+}

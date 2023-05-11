@@ -1,0 +1,76 @@
+melocotón;der Pfirsich
+chirimoya;der Rahmapfel
+manzana;der Apfel
+calabaza;der Kürbis
+limón;die Zitrone
+naranja;die Orange
+pera;die Birne
+fresa;die Erdbeere
+banana;die Banane
+higo;die Feige
+ciruela;die Pflaume
+kiwi;die Kiwi
+mandarina;die Tangerine
+arandano;die Blaubeere
+frambuesa;die Himbeere
+lima;die Limette
+pomelo;die Grapefruit
+níspero;die Loquat
+melón;die Melone
+sandía;die Wassermelone
+piña;die Ananas
+uva;die Weintraube
+cereza;die Kirsche
+aguacate;die Avocado
+granada;die Granadine
+mango;die Mango
+maracuyá;die Passionsfrucht
+papaya;die Papaya
+zarzamora;die Brombeere
+tomate;die Tomate
+repollo;der Kohl
+lechuga;der Salat
+brócoli;der Brokkoli
+pimiento;die Paprika
+ajo;der Knoblauch
+maíz;der Mais
+puerro;der Porree
+espinaca;der Spinat
+acelga;der Mangold
+col de Bruselas; der Rosenkohl
+apio;der Sellerie
+coliflor;der Blumenkohl
+rábano;der Rettich
+espárrago;der Spargel
+yuca;der Maniok
+berenjena;die Aubergine
+pepino;die Gurke
+zanahoria;die Karotte
+patata;die Kartoffel
+cebolla;die Zwiebel
+calabacín;die Zucchini
+nabo;die Rübe
+guisante;die Erbse
+judía;die Bohne
+judía verde;die grüne Bohne
+remolacha;die Rote Beete
+haba;die Ackerbohne
+batata;die Süßkartoffel
+chile;die Peperoni
+albondiga;der Fleischlößchen
+filete;der Filetsteak
+bacon;der Spick
+chuleta;der Spick
+jamón;der Schinken
+lomo;die Lende
+costillar;die Rippchen
+embutido;die Wurst
+carne;das Fleisch
+carne de cordero;das Lammfleisch
+ternera;das Rindfleisch
+carne de pollo;das Hähnchen
+carne de cerdo;das Schwein
+carne mechada;das zertrümmstes Fleisch
+carne picada;das Hackfleisch
+falda de carne;das Kronfleish
+solomillo;das Lendenstück

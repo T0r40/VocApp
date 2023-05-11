@@ -1,0 +1,86 @@
+melocotón;peach
+limón;lemon
+naranja;orange
+pera;pear
+fresa;strawberry
+banana;banana
+higo;fig
+ciruela;plum
+kiwi;kiwi
+mandarina;tangerine
+chirimoya;custard apple
+manzana;apple
+arandano;blueberry
+frambuesa;raspberry
+lima;lime
+pomelo;grapefruit
+níspero;loquat
+sandía;watermelon
+melón;melon 
+piña;pineapple
+uva;grape
+cereza;cherry
+aguacate;avocado
+granada;pomegranate
+mango;mango
+papaya;papaya
+maracuyá;passionfruit
+zarzamora;blackberry
+tomate;tomato
+calabaza;pumpkin
+berenjena;aubergine
+berenjena(USA);eggplant
+repollo;cabbage
+lechuga;lettuce
+pepino;cucumber
+zanahoria;carrot
+patata;potato
+brócoli;broccoli
+pimiento;pepper
+cebolla;onion
+ajo;garlic
+calabacín(UK);courgette
+calabacín(USA);zucchini
+maíz(UK);maize
+maíz(USA);corn
+puerro;leek
+nabo;turnip
+espinaca;spinach
+guisante;pea
+acelga;chard
+coles de Bruselas;Brussels sprout
+apio;celery
+coliflor;califlower
+judía;beam  
+judía verde;green beam
+remolacha;beetroot
+haba(UK);broad beam
+haba(USA);favabeam
+rábano;radish
+espárrago;asparagus
+batata;sweet potato
+yuca;manioc
+seta champiñón;mushroom
+chile(UK);chilli
+chile(USA);chili
+carne;meat
+carne de cordero;lamb
+ternera;beef
+pollo;chicken
+cerdo;pork
+albóndiga;meatball
+filete;steak
+lomo;loin
+filete de pollo;chicken fillet
+bacon;bacon
+costillar;rack
+carne mechada;shredded beef
+carne picada;minced beef
+falda de carne(UK);skirt steak
+falda de carne(USA);flank steak
+chuletón;large steak
+embutido;cold meat
+salchicha;sousage
+jamón;ham
+solomillo;sirloin
+chuleta;chop

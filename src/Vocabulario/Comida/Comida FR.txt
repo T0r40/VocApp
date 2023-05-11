@@ -1,0 +1,80 @@
+melocotón;la pêche
+naranja;l'orange
+pera;la poire
+fresa;la fraise
+banana;la banane
+higo;la figue
+ciruela;la prune
+mandarina;la tangerine
+manzana;la pomme
+arandano;la myrtille
+frambuesa;la framboise
+sandía;la pastèque
+cereza;la cerise
+granada;la granade
+mango;la mangue
+papaya;la papaye
+zarzamora;la mûre
+tomate;la tomate
+calabaza;la citrouille
+limón;le citron
+kiwi;le kiwi
+chirimoya;l'anone
+lima;le citron vert
+pomelo;le pamplemousse
+níspero;la nèfle
+melón;le melon
+piña;l'ananas
+uva;le raisin;
+aguacate;l'avocat
+maracuyá;le fruit de la passion
+repollo;le chou
+pepino;le cocombre
+brócoli;le broccoli
+pimiento;le poivre
+cebolla;l'ognon
+ajo;l'ail
+maíz;le maïs
+puerro;le poireau
+nabo;le navet
+espinaca;l'épinard
+guisante;le petit pois
+col de Bruselas;le chou de Bruxelles
+apio;le céleri
+colifror;le chou-fleur
+judía;l'haricot
+judía verde;l'haricot vert
+rábano;le radis
+yuca;le manioc
+seta / champiñón;le champignon
+chile;le piment
+berenjena;l'aubergine
+lechuga;la salade
+zanahoria;la carotte
+patata;la pomme de terre
+calabacín;la courgette
+acelga;la blette
+remolacha;la bettrave
+haba;la fève
+espárrago;l'asperge
+batata;la patate douce
+carne de cordero;l'agneau
+carne de ternera;le boeuf
+carne de pollo;le poulet
+carne de cerdo;le porc
+filete;le filet de boeuf
+filete de pollo;le filet de poulet
+bacon;le bacon
+carne mechada;le boeuf effilaché
+carne picada;le boeuf haché
+jamón;le jambon
+solomillo;l'aloyau
+carne;la viande
+albondiga;la boulette de viande
+lomo;la longe
+costillar;la côtelette
+falda;la bavette
+chuletón;la côte de boeuf
+embutido;la charcuterie
+salchicha;la saucisse
+chuleta;la côte

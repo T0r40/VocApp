@@ -1,0 +1,16 @@
+{
+        "Header":{
+            "op1": "Wortschatz hinzufügen",
+            "op2": "Lernmodus",
+            "op3": "Prüfung",
+            "op4": "Startseite"
+        },
+        "Examen":{
+            "texto1": "Vokabelprüfung",
+            "texto2": "Datei auswählen"
+        },
+        "Footer":{
+            "texto": "© 2023 Alle Rechte vorbehalten"
+        }
+    
+ }

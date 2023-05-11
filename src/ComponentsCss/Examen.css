@@ -1,0 +1,88 @@
+.container {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.file-upload-label {
+  display: inline-block;
+  cursor: pointer;
+  padding: 10px 20px;
+  background-color: #2196f3;
+  color: #ffffff;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  margin-bottom: 2cm;
+}
+
+.file-upload-label:hover {
+  background-color: #0d8bf5;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.form-row span {
+  flex: 1;
+  text-align: left;
+  color: #000000;
+  font-weight: bold;
+}
+
+.form-row input[type="text"] {
+  flex: 1;
+  padding: 8px;
+  margin-left: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-family: 'Arial', sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+.checkmark {
+  margin-left: 10px;
+  color: #00b894;
+  font-size: 20px;
+}
+
+.checkmark span {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.checkmark span::before {
+  content: '\2713';
+}
+
+.crossmark {
+  margin-left: 10px;
+  color: #e74c3c;
+  font-size: 20px;
+}
+
+.crossmark span {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.crossmark span::before {
+  content: '\2717';
+}
+
+
